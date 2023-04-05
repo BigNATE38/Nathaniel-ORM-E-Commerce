@@ -19,5 +19,5 @@ Credit goes to UCI for providing the develop folder starter code.
 N/A
 ## Deployment 
 (https://drive.google.com/file/d/1E4iaYFAQhRMbAFsVGYl-pjkt1sr1TTId/view?usp=sharing)
-![SiteImage](images/employeetrackerpic.png)
-![SiteImage](images/employeetrackerpic2.png)
+![SiteImage](images/ORM_Pic.png)
+![SiteImage](images/ORM_Pic2.png)
